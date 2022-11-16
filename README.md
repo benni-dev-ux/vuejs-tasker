@@ -1,4 +1,4 @@
-# Vue.js Tracker
+# Vue.js Task Tracker
 
 refreshing vue.js skills by
 building a toDo App following Traversy Media Crash Course
